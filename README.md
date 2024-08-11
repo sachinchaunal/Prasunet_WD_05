@@ -1,6 +1,3 @@
-# Prasunet_WD_05
-
-
 # Weather App 🌤️
 
 A dynamic web application that fetches weather data from a weather API based on the user's location or a user-inputted location. It displays current weather conditions, temperature, and other relevant information, along with hourly and weekly forecasts.
